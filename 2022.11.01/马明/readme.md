@@ -1,1 +1,1 @@
-马明
+ViNG: Learning Open-World Navigation with Visual Goals
